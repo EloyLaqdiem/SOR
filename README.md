@@ -27,4 +27,6 @@ En los ocho partidos que jugó cada equipo para terminar de ordenar las posicion
 [MVP DE LA BURBUJA](https://bolavip.com/__export/1598542268193/sites/bolavip/img/2020/08/27/nba_damian_lillard_deja_burbuja_crop1598542267230.jpg_1902800913.jpg)
 
 
-[FUENTES](https://www.mundodeportivo.com/baloncesto/nba/20200716/482338546480/asi-es-la-vida-en-la-burbuja-disney-de-la-nba.html)
+[FUENTE 1](https://www.mundodeportivo.com/baloncesto/nba/20200716/482338546480/asi-es-la-vida-en-la-burbuja-disney-de-la-nba.html)
+
+[FUENTE 2](https://www.gigantes.com/nba/burbuja-nba-protocolo/)
