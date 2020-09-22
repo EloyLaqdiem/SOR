@@ -1,7 +1,7 @@
 # Los sistemas operatimos mas usados
 
 ## *Windows* 
-![windows](https://gdit.es/wp-content/uploads/2016/06/windows.png)
+![Windows](https://gdit.es/wp-content/uploads/2016/06/windows.png)
 
 Es un sistema operativo desarrollado por Microsoft, para los PC y el más popular en el mercado en la actualidad.
 Generalmente cuando compramos un ordenador, este trae instalado un sistema operativo Windows.
@@ -37,3 +37,11 @@ Mac OS es el sistema operativo creado por Apple para su línea de computadoras M
 
 [Información](https://es.wikipedia.org/wiki/Mac_OS)
 
+
+
+## *Android*
+![Android](https://okdiario.com/img/2020/02/10/aplicaciones-android-que-debes-eliminar-porque-son-peligrosas-655x368.jpg)
+
+Inicialmente fue desarrollado por Android Inc., empresa que Google respaldó económicamente y que adquirió en 2005. Es un sistema operativo móvil desarrollado por Google, basado en núcleo Linux y otros software de código abierto. Fue diseñado para dispositivos móviles con pantalla táctil, como teléfonos inteligentes, tabletas, etc...
+
+[Información](https://es.wikipedia.org/wiki/Android)
