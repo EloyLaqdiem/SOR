@@ -27,3 +27,9 @@ En la actualidad este sistema operativo ha obtenido un cierto apoyo por parte de
 iOS (anteriormente denominado iPhone OS) es un sistema operativo móvil de Apple. Originalmente desarrollado para el iPhone, siendo después usado en dispositivos como el iPod Touch, iPad y el Apple TV. Apple por su parte no permite la instalación de iOS en hardware de terceros.
 
 [Información](https://es.wikipedia.org/wiki/IOS)
+
+
+
+## *MAC OS*
+![MAC OS](https://henrixivo.files.wordpress.com/2016/08/mac-os-el-capitan-nombre-0-830x511.png)
+
