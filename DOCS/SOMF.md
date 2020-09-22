@@ -33,3 +33,7 @@ iOS (anteriormente denominado iPhone OS) es un sistema operativo móvil de Apple
 ## *MAC OS*
 ![MAC OS](https://henrixivo.files.wordpress.com/2016/08/mac-os-el-capitan-nombre-0-830x511.png)
 
+Mac OS es el sistema operativo creado por Apple para su línea de computadoras Macintosh, también aplicado retroactivamente a las versiones anteriores a System 7.6, y que apareció por primera vez en System 7.5.1. Es conocido por haber sido uno de los primeros sistemas dirigidos al gran público en contar con una interfaz gráfica compuesta por la interacción del mouse con ventanas, iconos y menús
+
+[Información](https://es.wikipedia.org/wiki/Mac_OS)
+
