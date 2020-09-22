@@ -23,3 +23,7 @@ En la actualidad este sistema operativo ha obtenido un cierto apoyo por parte de
 
 ## *IOS*
 ![IOS](https://i0.wp.com/unaaldia.hispasec.com/wp-content/uploads/2020/03/apple_ios.jpg?resize=697%2C365&ssl=1)
+
+iOS (anteriormente denominado iPhone OS) es un sistema operativo móvil de Apple. Originalmente desarrollado para el iPhone, siendo después usado en dispositivos como el iPod Touch, iPad y el Apple TV. Apple por su parte no permite la instalación de iOS en hardware de terceros.
+
+[Información](https://es.wikipedia.org/wiki/IOS)
