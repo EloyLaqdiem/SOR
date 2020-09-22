@@ -23,3 +23,8 @@ En el caso de que un jugador en la burbuja devuelva una prueba positiva confirma
 El pasado lunes, tras completarse los últimos ocho partidos oficiales de la temporada regular, que jugaron 22 equipos, 16 clasificaron y a partir del lunes comenzaron la competición de los playoffs en el Wide World of Sports, de Orlando.
 
 En los ocho partidos que jugó cada equipo para terminar de ordenar las posiciones y la clasificación a los playoffs, se vieron rendimientos individuales de tal jerarquía que la NBA terminó por otorgar premios a lo hecho en esta primera etapa de la burbuja.
+
+[MVP DE LA BURBUJA] (https://bolavip.com/__export/1598542268193/sites/bolavip/img/2020/08/27/nba_damian_lillard_deja_burbuja_crop1598542267230.jpg_1902800913.jpg)
+
+
+
