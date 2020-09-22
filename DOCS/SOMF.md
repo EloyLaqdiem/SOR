@@ -6,5 +6,10 @@
 Es un sistema operativo desarrollado por Microsoft, para los PC y el más popular en el mercado en la actualidad.
 Generalmente cuando compramos un ordenador, este trae instalado un sistema operativo Windows.
 Se llama Windows por su interfaz gráfica de usuario basada en ventanas, que podemos modificar, cambiar de tamaño, moverlas de lugaUna vez desarrollado el sistema operativo.
+
 [Información](https://es.wikipedia.org/wiki/Microsoft_Windows)
 
+
+
+## *Linux*
+![Linux](https://www.redeszone.net/app/uploads-redeszone.net/2017/11/instalar-linux-cosas.jpg)
