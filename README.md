@@ -18,3 +18,8 @@ En el caso de que se produzca algún positivo por coronavirus, el afectado será
 ## Los PLAYOFFS de la NBA en la BURBUJA
 
 Las buenas noticias siguen dándose dentro de la burbuja de Orlando, donde se disputan los playoffs de la NBA, al conocerse este miércoles los últimos resultados de las pruebas COVID-19 realizadas a los 341 jugadores y todas dieron negativo.
+En el caso de que un jugador en la burbuja devuelva una prueba positiva confirmada en el futuro, será aislado hasta que se le autorice a salir del aislamiento según las reglas establecidas por la NBA y la Asociación de Jugadores.
+
+El pasado lunes, tras completarse los últimos ocho partidos oficiales de la temporada regular, que jugaron 22 equipos, 16 clasificaron y a partir del lunes comenzaron la competición de los playoffs en el Wide World of Sports, de Orlando.
+
+En los ocho partidos que jugó cada equipo para terminar de ordenar las posiciones y la clasificación a los playoffs, se vieron rendimientos individuales de tal jerarquía que la NBA terminó por otorgar premios a lo hecho en esta primera etapa de la burbuja.
