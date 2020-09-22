@@ -13,3 +13,5 @@ Se llama Windows por su interfaz gráfica de usuario basada en ventanas, que pod
 
 ## *Linux*
 ![Linux](https://www.redeszone.net/app/uploads-redeszone.net/2017/11/instalar-linux-cosas.jpg)
+
+
