@@ -16,3 +16,6 @@ Las distribuciones mas usuales són:
 **Manjaro**
 
 ![Manjaro](https://png.pngitem.com/pimgs/s/521-5219618_14-28-february-manjaro-logo-hd-png-download.png)
+
+ Su fecha de lanzamiento fue el 10 de julio de 2011 y la última version estable es la 20.1 "Lysia" que fue lanzada el pasado 11 de septiembre de 2020.
+ Esta versión incluye 
