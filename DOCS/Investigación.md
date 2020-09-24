@@ -9,8 +9,9 @@ A diferencia del software comercial que el usuario paga por el servicio.
 ## ¿Qué es una distribución?
 Una distribución GNU/Linux (normalmente llamada distro) es una distribución de software basada en el núcleo Linux que incluye determinados paquetes de software para satisfacer las necesidades de un grupo específico de usuarios, dando así origen a ediciones domésticas, empresariales y para servidores. 
 Las distribuciones mas usuales són:
-*Manjaro, Linux Mint, Ubuntu, Elementary, Solus, Anteros, Fedora*
+*Manjaro, Linux Mint, Ubuntu, Elementary, Solus, Antergos*
 
 
 ## Última versión de los sistemas operativos
-*Manjaro*
+**Manjaro**
+![Manjaro](https://png.pngitem.com/pimgs/s/521-5219618_14-28-february-manjaro-logo-hd-png-download.png)
