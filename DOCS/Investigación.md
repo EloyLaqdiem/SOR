@@ -21,6 +21,7 @@ Las distribuciones mas usuales són:
  Esta versión incluye actualizaciones recientes habituales, en las que se incluyen Haskell y Python mediante Arc, se ha actualizado el kernel a Linux 5.7, entre muchas otras cosas.
  
  **Linux Mint**
+ 
   ![Linux Mint](https://www.omgubuntu.co.uk/wp-content/uploads/2017/11/linux-mint.jpg)
   
   Su fecha de lanzamiento fue el 27 de agosto de 2006 y la última versión estable es la 20 “Ulyana” que fue lanzada el  27 de junio de 2020.
