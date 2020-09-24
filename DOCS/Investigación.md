@@ -14,4 +14,5 @@ Las distribuciones mas usuales són:
 
 ## Última versión de los sistemas operativos
 **Manjaro**
+
 ![Manjaro](https://png.pngitem.com/pimgs/s/521-5219618_14-28-february-manjaro-logo-hd-png-download.png)
