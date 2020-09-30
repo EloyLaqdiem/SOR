@@ -24,6 +24,6 @@ Las distribuciones mas usuales són:
  
   ![Linux Mint](https://www.omgubuntu.co.uk/wp-content/uploads/2017/11/linux-mint.jpg)
   
-  Su fecha de lanzamiento fue el 27 de agosto de 2006 y la última versión estable es la 20 “Ulyana” que fue lanzada el  27 de junio de 2020.
-  Esta versión incluye 
-  
+  Su fecha de lanzamiento fue el 27 de agosto de 2006 y la última versión estable es la número 20 “Ulyana” que fue lanzada el  27 de junio de 2020.
+  Esta versión incluye una nueva aplicación llamada *Warpinator*, que permite compartir archivos fácilmente en la red local.
+  Linux Mint 20 también cuenta con soporte mejorado para NVIDIA Optimus. Presenta  Xfce 4.14, un kernel de Linux 5.4 y un paquete base de Ubuntu 20.04, entre otras muchas cosas más.
