@@ -26,4 +26,12 @@ Las distribuciones mas usuales són:
   
   Su fecha de lanzamiento fue el 27 de agosto de 2006 y la última versión estable es la número 20 “Ulyana” que fue lanzada el  27 de junio de 2020.
   Esta versión incluye una nueva aplicación llamada *Warpinator*, que permite compartir archivos fácilmente en la red local.
-  Linux Mint 20 también cuenta con soporte mejorado para NVIDIA Optimus. Presenta  Xfce 4.14, un kernel de Linux 5.4 y un paquete base de Ubuntu 20.04, entre otras muchas cosas más.
+  Linux Mint 20 también cuenta con soporte mejorado para NVIDIA Optimus. Presenta  Xfce 4.14, un kernel de Linux 5.4 y un paquete base de Ubuntu 20.04, entre     otras muchas cosas más.
+  
+  **Ubuntu**
+  
+  ![Ubuntu](https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png)
+  
+  Su fecha de lanzamiento fue el 20 de octubre de 2004 y la última versión estable es la 20.04 "LTS" que fue lanzada el 23 de abril de 2020.
+  Esta versión viene con el Núcleo 5.4, que permite acceder a ExFAT así como el nuevo WireGuard VPN. En comparación con la última LTS el tiempo de instalación se ha reducido considerablemente.
+ 
