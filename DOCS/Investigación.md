@@ -34,4 +34,11 @@ Las distribuciones mas usuales són:
   
   Su fecha de lanzamiento fue el 20 de octubre de 2004 y la última versión estable es la 20.04 "LTS" que fue lanzada el 23 de abril de 2020.
   Esta versión viene con el Núcleo 5.4, que permite acceder a ExFAT así como el nuevo WireGuard VPN. En comparación con la última LTS el tiempo de instalación se ha reducido considerablemente.
+  
+  **Elementary**
+  
+  ![Elementary](https://ubunlog.com/wp-content/uploads/2016/08/elementary-os-icon.jpg)
+  
+  Su fecha de lanzamiento fue el 	31 de marzo de 2011 y la última versión estable es la 5.1.5 "Hera" que fue lanzada el 3 de junio de 2020.
+  Esta versión trae mejoras iteractivas en AppCenter con nuevas funciones y correcciones. Ahora los usuarios pueden instalar actualizaciones sin permiso de administrador. También en Archivos, se podrá copiar una imagen y pegarla en otra aplicación, pegará la imagen en sí en lugar de las rutas del archivo, por ejemplo, ahora puedes pegar imágenes directamente en un editor de imágenes o aplicaciones web en ciertos navegadores.
  
